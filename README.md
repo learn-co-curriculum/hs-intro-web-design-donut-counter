@@ -17,4 +17,4 @@ You'll be coding your solution in `js/donut.js`. You'll want to have `index.html
 + **Step Four:** Write a conditional to check if there are enough donuts
 
 + **Step Five:** alert the user with a message telling them the numbers of donuts and guests, and if there are enough donuts for each guest.
-<a href='https://learn.co/lessons/hs-intro-web-design-donut-counter' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-donut-counter' title='Donut Counter'>Donut Counter</a> on Learn.co and start learning to code for free.</p>
